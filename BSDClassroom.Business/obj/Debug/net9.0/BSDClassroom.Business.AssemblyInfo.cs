@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BSDClassroom.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da85ed54951e58e6bf74b6470eebd918261d2423")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98742973633c57516981236554625bb77b031140")]
 [assembly: System.Reflection.AssemblyProductAttribute("BSDClassroom.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BSDClassroom.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
