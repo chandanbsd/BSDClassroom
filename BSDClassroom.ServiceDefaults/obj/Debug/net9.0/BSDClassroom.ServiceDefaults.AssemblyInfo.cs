@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BSDClassroom.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98742973633c57516981236554625bb77b031140")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32d49870f2dea41bf26ea8309e2297af5c9ae15d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BSDClassroom.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BSDClassroom.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
