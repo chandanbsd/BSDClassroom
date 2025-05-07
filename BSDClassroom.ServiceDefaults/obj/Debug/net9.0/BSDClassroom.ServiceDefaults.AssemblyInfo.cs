@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BSDClassroom.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5aa172af4bcbaf0e732b3019303b78117e66f7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+703699058b76d987e8c159ad5ead25c9d8007922")]
 [assembly: System.Reflection.AssemblyProductAttribute("BSDClassroom.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BSDClassroom.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

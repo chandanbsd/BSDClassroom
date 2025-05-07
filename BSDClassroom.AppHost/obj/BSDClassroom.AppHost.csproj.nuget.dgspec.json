@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\denan\\dev\\BSDClassroom\\BSDClassroom\\BSDClassroom.AppHost\\BSDClassroom.AppHost.csproj": {}
+    "C:\\Users\\denan\\dev\\BSDClassroom\\BSDClassroom.AppHost\\BSDClassroom.AppHost.csproj": {}
   },
   "projects": {
-    "C:\\Users\\denan\\dev\\BSDClassroom\\BSDClassroom\\BSDClassroom.AppHost\\BSDClassroom.AppHost.csproj": {
+    "C:\\Users\\denan\\dev\\BSDClassroom\\BSDClassroom.AppHost\\BSDClassroom.AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denan\\dev\\BSDClassroom\\BSDClassroom\\BSDClassroom.AppHost\\BSDClassroom.AppHost.csproj",
+        "projectUniqueName": "C:\\Users\\denan\\dev\\BSDClassroom\\BSDClassroom.AppHost\\BSDClassroom.AppHost.csproj",
         "projectName": "BSDClassroom.AppHost",
-        "projectPath": "C:\\Users\\denan\\dev\\BSDClassroom\\BSDClassroom\\BSDClassroom.AppHost\\BSDClassroom.AppHost.csproj",
+        "projectPath": "C:\\Users\\denan\\dev\\BSDClassroom\\BSDClassroom.AppHost\\BSDClassroom.AppHost.csproj",
         "packagesPath": "C:\\Users\\denan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denan\\dev\\BSDClassroom\\BSDClassroom\\BSDClassroom.AppHost\\obj\\",
+        "outputPath": "C:\\Users\\denan\\dev\\BSDClassroom\\BSDClassroom.AppHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

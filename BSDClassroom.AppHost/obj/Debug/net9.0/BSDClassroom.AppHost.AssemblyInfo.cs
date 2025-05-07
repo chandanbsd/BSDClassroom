@@ -18,14 +18,14 @@ using System.Reflection;
     "xt\\")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\denan\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\e" +
     "xt\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\denan\\dev\\BSDClassroom\\BSDClassroom\\BSDClassroom.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\denan\\dev\\BSDClassroom\\BSDClassroom.AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "BSDClassroom.AppHost.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\denan\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\tools\\Aspire.Da" +
     "shboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BSDClassroom.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5aa172af4bcbaf0e732b3019303b78117e66f7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+703699058b76d987e8c159ad5ead25c9d8007922")]
 [assembly: System.Reflection.AssemblyProductAttribute("BSDClassroom.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BSDClassroom.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

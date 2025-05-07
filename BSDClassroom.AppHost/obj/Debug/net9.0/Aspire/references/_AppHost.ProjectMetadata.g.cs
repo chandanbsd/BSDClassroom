@@ -8,5 +8,5 @@ namespace Projects;
 public class BSDClassroom_AppHost
 {
     private BSDClassroom_AppHost() { }
-    public static string ProjectPath => """C:\Users\denan\dev\BSDClassroom\BSDClassroom\BSDClassroom.AppHost""";
+    public static string ProjectPath => """C:\Users\denan\dev\BSDClassroom\BSDClassroom.AppHost""";
 }

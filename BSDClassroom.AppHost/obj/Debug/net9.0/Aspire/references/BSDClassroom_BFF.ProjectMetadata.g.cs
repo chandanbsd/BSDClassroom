@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class BSDClassroom_BFF : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\denan\dev\BSDClassroom\BSDClassroom\BSDClassroom.BFF\BSDClassroom.BFF.csproj""";
+    public string ProjectPath => """C:\Users\denan\dev\BSDClassroom\BSDClassroom.BFF\BSDClassroom.BFF.csproj""";
 }
