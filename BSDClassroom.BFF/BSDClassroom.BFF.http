@@ -1,0 +1,6 @@
+@BSDClassroom.BFF_HostAddress = http://localhost:5015
+
+GET {{BSDClassroom.BFF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
