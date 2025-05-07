@@ -25,7 +25,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BSDClassroom.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+703699058b76d987e8c159ad5ead25c9d8007922")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da85ed54951e58e6bf74b6470eebd918261d2423")]
 [assembly: System.Reflection.AssemblyProductAttribute("BSDClassroom.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BSDClassroom.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
